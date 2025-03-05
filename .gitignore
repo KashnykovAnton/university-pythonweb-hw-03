@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# idea settings
+.idea/
+
+# JupyterLab workspace
+.DS_Store
